@@ -326,6 +326,7 @@ ui <- fluidPage(
       
       div(
         class = "message",
+        "<b>Wo:</b> In den Hessengärten 14",
         "Die Vorbereitungen laufen und der Abflug rückt näher. ",
         "Verfolgt hier den Countdown bis zum Check-in!"
       ),
