@@ -326,7 +326,8 @@ ui <- fluidPage(
       
       div(
         class = "message",
-        strong("Wo: "), "In den Hessengärten 14",
+        strong("Wo: "), "In den Hessengärten 14\n",
+        strong("Wann: "), "Am 24.10.2026 um 15 Uhr\n",
         "Die Vorbereitungen laufen und der Abflug rückt näher. ",
         "Verfolgt hier den Countdown bis zum Check-in!"
       ),
