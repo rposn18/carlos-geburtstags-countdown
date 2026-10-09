@@ -391,16 +391,14 @@ ui <- fluidPage(
           "Knuffingen Airport"
         ),
         
-        # tags$div(
-        #   style = "margin: 25px 0 0;",
-        #   
-        #   tags$a(
-        #     href = "/img/boardingkarte.pdf",
-        #     target = "_blank",
-        #     class = "pdf-link",
-        #     "✈ Boardingkarte als PDF öffnen"
-        #   )
-        # )
+       tags$div(
+          style = "margin: 25px 0 0;",
+          tags$a(
+            href = "http://desktop-qblikek:8001",
+            target = "_blank",
+            "✈  Zum Ziel!"
+          )
+        )
       )
     ),
     
