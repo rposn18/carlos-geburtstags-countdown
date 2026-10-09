@@ -313,7 +313,7 @@ ui <- fluidPage(
       
       h1("Carlos' Geburtstagsflug"),
       
-      p("SONDERFLUG ZUM GEBURTSTAG")
+      p("EINLADUNG ZUR GEBURTSTAGSFEIER")
     ),
     
     div(
